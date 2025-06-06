@@ -1,0 +1,19 @@
+# Python cache and system files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Jupyter and Spyder
+.ipynb_checkpoints/
+.spyderproject
+.spyproject
+
+# OS files
+.DS_Store
+Thumbs.db
