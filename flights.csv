@@ -1,0 +1,9 @@
+flight_no,from,to,date,departure,price
+AI101,Delhi,Mumbai,daily,06:00,4500
+AI102,Mumbai,Delhi,daily,18:00,4700
+AI201,Bengaluru,Chennai,daily,08:00,3200
+AI202,Chennai,Bengaluru,daily,19:00,3300
+AI301,Delhi,Srinagar,daily,07:30,5400
+AI302,Srinagar,Delhi,daily,17:45,5300
+AI401,Pune,Bangalore,daily,09:00,4100
+AI402,Bangalore,Pune,daily,20:00,4200
